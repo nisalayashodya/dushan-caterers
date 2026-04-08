@@ -1,0 +1,35 @@
+{
+  "name": "dushan-caterers",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@emailjs/browser": "^3.11.0",
+    "@google/generative-ai": "^0.24.1",
+    "bootstrap-icons": "^1.13.1",
+    "emailjs-com": "^3.2.0",
+    "firebase": "^10.7.0",
+    "jspdf": "^2.5.1",
+    "jspdf-autotable": "^3.7.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hot-toast": "^2.4.1",
+    "react-router-dom": "^6.20.0",
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
